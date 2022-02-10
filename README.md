@@ -1,4 +1,4 @@
-# 02 Web Boiler plate
+# Webpack Boilerplate con React 
 
 ## Resumen
 
